@@ -22,7 +22,7 @@ This application is a final group project for [GA Tech's Coding Boot Camp](https
 
 ### Collaborators
 + **Back End**: [Jay Huang](https://www.github.com/aznprox) and [Brad Whitcomb](https://www.github.com/)
-+ **Front End**: [Juanita Pinkney](https://www.github.com/juanitanpinkney) and [Brian Peace](https://www.github.com/bpeace71)
++ **Front End**: [Juanita Pinkney](https://www.github.com/juanitapinkney) and [Brian Peace](https://www.github.com/bpeace71)
 + **Front End and Project Management**: [Keli Chau](https://www.github.com/kelichau)
 
 ### Requirements
